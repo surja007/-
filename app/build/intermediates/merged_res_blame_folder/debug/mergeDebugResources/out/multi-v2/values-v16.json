@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.smartweather.app-mergeDebugResources-77:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/bhaskar/.gradle/caches/8.13/transforms/7a8e59cf6a0ddd7292dfc4d1e2c285cf/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/bhaskar/.gradle/caches/8.13/transforms/2d1d6b2234274f98dadde240eb59e0fc/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

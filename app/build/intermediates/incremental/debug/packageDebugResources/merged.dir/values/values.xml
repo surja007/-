@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#2196F3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="alerts">Alerts</string>
+    <string name="app_name">Smart Weather</string>
+    <string name="error_location">Unable to get your location</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="favorites">Favorites</string>
+    <string name="gcm_defaultSenderId" translatable="false">123456789</string>
+    <string name="google_api_key" translatable="false">AIzaSyDemoKey-Replace-With-Real-Key</string>
+    <string name="google_app_id" translatable="false">1:123456789:android:abcdef123456</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDemoKey-Replace-With-Real-Key</string>
+    <string name="google_storage_bucket" translatable="false">smart-weather-demo.appspot.com</string>
+    <string name="permission_location_rationale">Location permission is needed to show weather for your current location</string>
+    <string name="permission_notification_rationale">Notification permission is needed to alert you about severe weather</string>
+    <string name="project_id" translatable="false">smart-weather-demo</string>
+    <string name="refresh">Refresh</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="settings">Settings</string>
+    <style name="Theme.SmartWeather" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
