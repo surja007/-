@@ -193,10 +193,6 @@ The app follows Clean Architecture principles:
 
 Contributions are welcome! Please follow the existing code style and architecture patterns.
 
-## License
-
-[Your License Here]
-
 ## Acknowledgments
 
 - Weather data provided by OpenWeatherMap
